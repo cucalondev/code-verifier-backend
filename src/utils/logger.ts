@@ -3,7 +3,7 @@ export const LogInfo = (message: string) =>{
 }
 
 export const LogSuccess = (message: string) =>{
-    console.log(`Sucess: ${message}`)
+    console.log(`Success: ${message}`)
 }
 
 export const LogWarning = (message: string) =>{
